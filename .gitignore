@@ -1,0 +1,7 @@
+/build
+/build-templates
+/preview-template
+*.meta
+/library
+/temp
+/profiles
